@@ -784,7 +784,7 @@ padding-left:100px;
 	.event .events ul {
 		position: absolute;
 		top: 50%;
-		transform: translateY(-10%);
+		transform: translateY(10%);
 		margin: 0;
 		padding:0px;
 		box-sizing: border-box;
